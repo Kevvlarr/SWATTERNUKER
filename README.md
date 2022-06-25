@@ -1,5 +1,8 @@
 # Swatter Nuker
 
+##Discord
+[Discord](https://discord.gg/bNyjNEy7HK)
+
 ## Installation
 1. Go to [releases](https://github.com/Kevvlarr/SWATTERNUKER/releases/tag/SWATTER)
 2. Download **SWATTER.zip**
@@ -8,7 +11,6 @@
 
 ## Disclaimer
 Just know that this is a Lithium remake
-Discord(https://discord.gg/bNyjNEy7HK)
 
 ## Previews
 ![Fullscreen](![image](https://user-images.githubusercontent.com/78349534/175770883-abaf0c56-d6bc-4caa-a774-b44ddecd8b0c.png)
