@@ -8,6 +8,7 @@
 
 ## Disclaimer
 Just know that this is a Lithium remake
+Discord(https://discord.gg/bNyjNEy7HK)
 
 ## Previews
 ![Fullscreen](![image](https://user-images.githubusercontent.com/78349534/175770883-abaf0c56-d6bc-4caa-a774-b44ddecd8b0c.png)
