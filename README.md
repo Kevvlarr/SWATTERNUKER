@@ -1,6 +1,6 @@
 # Swatter Nuker
 
-##Discord
+## Discord
 [Discord](https://discord.gg/bNyjNEy7HK)
 
 ## Installation
