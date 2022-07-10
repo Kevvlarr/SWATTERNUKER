@@ -1,8 +1,5 @@
 # Swatter Nuker
 
-## Discord
-[Discord](https://discord.gg/bNyjNEy7HK)
-
 ## Installation
 1. Go to [releases](https://github.com/Kevvlarr/SWATTERNUKER/releases/tag/SWATTER)
 2. Download **SWATTER.zip**
